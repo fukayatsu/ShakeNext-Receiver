@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SN_Receiver1.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="cmb1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">COM7</Value>
+    </Setting>
+    <Setting Name="b1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">{HOME}</Value>
+    </Setting>
+    <Setting Name="b2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">{END}</Value>
+    </Setting>
+    <Setting Name="b3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">{LEFT}</Value>
+    </Setting>
+    <Setting Name="b4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">{RIGHT}</Value>
+    </Setting>
+    <Setting Name="l1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">{UP}</Value>
+    </Setting>
+    <Setting Name="l2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">{DOWN}</Value>
+    </Setting>
+    <Setting Name="m1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">+{F5}</Value>
+    </Setting>
+    <Setting Name="m2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">{ESC}</Value>
+    </Setting>
+    <Setting Name="strings" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
